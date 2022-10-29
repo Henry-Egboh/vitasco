@@ -33,12 +33,13 @@ ul, p{
     padding: 12px 0px;
     font-size: 14px;
 }
-/* social icon section */
+
+/* social icon color */
 .cols{
     color: rgb(217, 227, 143);
 }
 
-/* before and after footer styling */
+/* before and after footer border styling */
 .bd_top{
     border-top: 1px ridge rgb(217, 227, 143);
 }
@@ -47,6 +48,24 @@ ul, p{
     border-bottom: 1px ridge rgb(217, 227, 143);
 }
 
+/* size of top and bottom div encompassing the footer */
 .doflex{
     font-size: 14px;
+}
+
+/* mini div below footer  */
+.footer a{
+    text-decoration: none;
+    color: rgb(192, 232, 231);
+}
+
+/* style mini div on top of footer content */
+.footer2 a{
+    text-decoration: none;
+    color: rgb(192, 232, 231);
+    padding: 0px 10px;
+}
+
+.footer1{
+    margin-right: 5%;
 }
