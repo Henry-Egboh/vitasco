@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500&family=Poppins:wght@300;400;500&display=swap');
+
+body{
+    height: 100vh;
+    font-family: 'Nunito', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+}
+
+ul, p{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* font awesome icon */
+.isp{
+    margin-left: 10px;
+}
+/* social icons paddng */
+.ip{
+    padding-right: 10px;
+}
+
+/* ul on footer */
+.sec1 ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+} 
+
+.sec1 ul li a{
+    text-decoration: none;
+    display: block;
+    color: rgb(192, 232, 231);
+    padding: 12px 0px;
+    font-size: 14px;
+}
+/* social icon section */
+.cols{
+    color: rgb(217, 227, 143);
+}
+
+/* before and after footer styling */
+.bd_top{
+    border-top: 1px ridge rgb(217, 227, 143);
+}
+
+.bd_bottom{
+    border-bottom: 1px ridge rgb(217, 227, 143);
+}
+
+.doflex{
+    font-size: 14px;
+}
